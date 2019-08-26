@@ -9,3 +9,7 @@
 .nav {
     padding: 30px;
 }
+
+.size {
+    width: var(--procent);
+}

@@ -1,6 +1,11 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.jpg" />
+    <img
+      class="size"
+      style="--procent: 60vw"
+      alt="Vue logo"
+      src="../assets/logo.jpg"
+    />
     <MainComponent msg="Welcome to our first Vue.js App" />
   </div>
 </template>
